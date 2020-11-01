@@ -71,5 +71,28 @@ This repository save the list of learning source
 - [ChIP-seq-analysis](https://github.com/XSLiuLab/ChIP-seq-analysis) - ChIPseq analysis notes from Ming Tang
 
 
-  
+## R开发相关资料  
+
+### Rmarkdown  
+
+- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)  
+- [Making slides in R Markdown](https://arm.rbind.io/slides/xaringan.html#1)  
+- [Advanced R Markdown Workshop](http://arm.rbind.io/)  
+
+### Shiny  
+
+- [Mastring Shiny](https://mastering-shiny.org/index.html)  
+- [shinydashboard](https://rstudio.github.io/shinydashboard/index.html)  
+
+
+### Rapckage development  
+
+- [Writing R Packages](http://www.danieldsjoberg.com/writing-R-packages/#1)  
+
+
+### Rstudio Themes  
+- [rsthemes](https://www.garrickadenbuie.com/project/rsthemes/)  
+
+### Others  
+- [openbiox](https://github.com/openbiox)
 
