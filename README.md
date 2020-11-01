@@ -16,7 +16,7 @@ This repository save the list of learning source
 
 ### R:
 
-- [《R for Data Science》](http://r4ds.had.co.nz/)（不推荐看中文，翻译的不好）
+- [《R for Data Science》](http://r4ds.had.co.nz/)
 
 - 《R实战》第二版
 
