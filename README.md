@@ -29,8 +29,8 @@ This repository save the list of learning source
 
 - [Bioinformatics one-liners](
 
-# Github上的一些学习教程  
 
+## Github上的一些学习教程  
 
 ### 基础学习资料  
 
