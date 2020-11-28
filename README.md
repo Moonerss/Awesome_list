@@ -68,7 +68,11 @@ This repository save the list of learning source
 
 - [DNA-seq-analysis](https://github.com/XSLiuLab/DNA-seq-analysis) - DNAseq analysis notes from Ming Tang
 
-- [ChIP-seq-analysis](https://github.com/XSLiuLab/ChIP-seq-analysis) - ChIPseq analysis notes from Ming Tang
+- [ChIP-seq-analysis](https://github.com/XSLiuLab/ChIP-seq-analysis) - ChIPseq analysis notes from Ming Tang  
+
+- [scRNAseq-analysis-notes](https://github.com/crazyhottommy/scRNAseq-analysis-notes) - scRNAseq analysis notes from Ming Tang  
+
+- [getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
 
 
 ## R开发相关资料  
