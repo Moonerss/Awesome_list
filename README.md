@@ -93,6 +93,10 @@ This repository save the list of learning source
 
 - [Writing R Packages](http://www.danieldsjoberg.com/writing-R-packages/#1)  
 
+### Data Visualization
+
+- [Curated resources for Data Visualization, Drawing & Publishing in R.](https://krzjoa.github.io/awesome-r-dataviz/#/)
+
 
 ### Rstudio Themes  
 - [rsthemes](https://www.garrickadenbuie.com/project/rsthemes/)  
