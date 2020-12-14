@@ -22,6 +22,8 @@ This repository save the list of learning source
 
 - 《R语言编程艺术》
 
+- [Big Book of R](https://www.bigbookofr.com/index.html)
+
 
 ### Others:  
 
