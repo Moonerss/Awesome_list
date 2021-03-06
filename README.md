@@ -22,6 +22,8 @@ This repository save the list of learning source
 
 - 《R语言编程艺术》
 
+- [Big Book of R](https://www.bigbookofr.com/index.html)
+
 
 ### Others:  
 
@@ -34,7 +36,8 @@ This repository save the list of learning source
 
 ### 基础学习资料  
 
-+ [中国科学技术大学计算机学院课程资源](https://github.com/USTC-Resource/USTC-Course)
++ [中国科学技术大学计算机学院课程资源](https://github.com/USTC-Resource/USTC-Course)  
+
 + [分析技术研习室](https://xsliulab.github.io/Workshop/)
 
 - [Unix, R and python tools for genomics and data science](https://github.com/XSLiuLab/getting-started-with-genomics-tools-and-resources)
@@ -93,6 +96,10 @@ This repository save the list of learning source
 ### Rapckage development  
 
 - [Writing R Packages](http://www.danieldsjoberg.com/writing-R-packages/#1)  
+
+### Data Visualization
+
+- [Curated resources for Data Visualization, Drawing & Publishing in R.](https://krzjoa.github.io/awesome-r-dataviz/#/)
 
 
 ### Rstudio Themes  
