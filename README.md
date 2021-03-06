@@ -29,14 +29,16 @@ This repository save the list of learning source
 
 - [Unix, R and python tools for genomics and data science](https://github.com/XSLiuLab/getting-started-with-genomics-tools-and-resources)
 
-- [Bioinformatics one-liners](
+- [Bioinformatics one-liners](https://github.com/crazyhottommy/bioinformatics-one-liners)
 
 
 ## Github上的一些学习教程  
 
 ### 基础学习资料  
 
-+ [中国科学技术大学计算机学院课程资源](https://github.com/USTC-Resource/USTC-Course)
++ [中国科学技术大学计算机学院课程资源](https://github.com/USTC-Resource/USTC-Course)  
+
++ [分析技术研习室](https://xsliulab.github.io/Workshop/)
 
 - [Unix, R and python tools for genomics and data science](https://github.com/XSLiuLab/getting-started-with-genomics-tools-and-resources)
 
