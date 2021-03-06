@@ -24,6 +24,10 @@ This repository save the list of learning source
 
 - [Big Book of R](https://www.bigbookofr.com/index.html)
 
+### Markdown:  
+
+- [Markdown 基本语法](https://github.com/younghz/Markdown)  
+
 
 ### Others:  
 
@@ -58,7 +62,9 @@ This repository save the list of learning source
 
 - [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/XSLiuLab/statrethinking_winter2019) - Statistical Rethinking course at MPI-EVA from Dec 2018 through Feb 2019
 
-- [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) - by Susan Holmes, Wolfgang Huber
+- [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) - by Susan Holmes, Wolfgang Huber  
+
+- [scRNA.seq.course](https://github.com/hemberg-lab/scRNA.seq.course) - Analysis of single cell RNA-seq data course  
 
 
 
@@ -76,7 +82,9 @@ This repository save the list of learning source
 
 - [scRNAseq-analysis-notes](https://github.com/crazyhottommy/scRNAseq-analysis-notes) - scRNAseq analysis notes from Ming Tang  
 
-- [getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
+- [getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)  
+
+- [awesome-single-cell](https://github.com/kieranrcampbell/awesome-single-cell) - List of software packages (and the people developing these methods) for single-cell data analysis, including RNA-seq, ATAC-seq, etc.  
 
 
 ## R开发相关资料  
@@ -106,5 +114,10 @@ This repository save the list of learning source
 - [rsthemes](https://www.garrickadenbuie.com/project/rsthemes/)  
 
 ### Others  
-- [openbiox](https://github.com/openbiox)
+- [openbiox](https://github.com/openbiox)  
+
+## 一些可能用的上的配置相关内容  
+
+- [xshell-themes](https://github.com/hellojukay/xshell-themes)  
+
 
